@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h2> 👋 Hey there! I'm Yuri.</h2>
+<h4 align="left">Currently appointed as a Mid Software Quality Assurance</h4>
+
+<br />
+
 
 <h3> 🤝🏻 &nbsp;Lets connect & share your perspective! </h3>
 

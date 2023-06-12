@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 
 <br />
 
-
 <h3> 🤝🏻 &nbsp;Lets connect & share your perspective! </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/yuribarru/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yuri-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:yuri.barru@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yuri.barru@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+
+<br />
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=spartacruz&show_icons=true&locale=en&theme=tokyonight&count_private=true&card_width=445" alt="Spartacruz" /></p>
 

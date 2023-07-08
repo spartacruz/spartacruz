@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <br />
-
+<!--
 <p><img src="https://github-readme-stats.vercel.app/api?username=spartacruz&show_icons=true&locale=en&theme=tokyonight&count_private=true&card_width=445" alt="Spartacruz" /></p>
-
+-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spartacruz&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8&card_width=445" alt="Spartacruz" /></p>
